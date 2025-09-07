@@ -23,6 +23,9 @@ Generates concise answers with citations
 
 <img width="1536" height="1024" alt="ChatGPT Image Sep 7, 2025, 01_01_37 PM" src="https://github.com/user-attachments/assets/91362134-f32b-47a2-9292-338dfd98db35" />
 
+
+
+
 📂 Repository Structure
 .
 ├── app.py              # Streamlit UI
@@ -33,9 +36,11 @@ Generates concise answers with citations
 ├── requirements.txt    # Dependencies
 └── WHO.pdf             # WHO World Health Statistics 2025 (optional)
 
+
+
 ⚡ Quick Start
 🔹 Run Locally
-git clone https://huggingface.co/spaces/srinath2003/who-rag-assistant
+git clone 
 cd who-rag-assistant
 pip install -r requirements.txt
 streamlit run app.py
