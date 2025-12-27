@@ -27,7 +27,7 @@ Generates concise answers with citations
 
 
 📂 Repository Structure
-.
+```
 ├── app.py              # Streamlit UI
 ├── pdf_vector.py       # Convert WHO PDF → Embeddings + FAISS index
 ├── question_vector.py  # Query handler + answer generator
